@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **susanta721467@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Tyi4FeK-GXC2GFhd01k0_bA0VjhxpAgi/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Tyi4FeK-GXC2GFhd01k0_bA0VjhxpAgi/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
