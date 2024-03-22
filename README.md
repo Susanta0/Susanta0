@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Susanta Samanta and I'm a Frontend Developer, from India</h2>
+<h1 align="center">Hi 👋! My name is Susanta Samanta and I'm a Frontend Developer, from India</h1>
 <br/>
 
 ###
