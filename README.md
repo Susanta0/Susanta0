@@ -1,8 +1,10 @@
 <h2 align="center">Hi 👋! My name is Susanta Samanta and I'm a Frontend Developer, from India</h2>
+<br/>
 
 ###
 
 <h3 align="center">👨‍💻 passionate web developer based in the vibrant city of Kolkata, West Bengal. With a keen eye for design and a knack for problem-solving, I love crafting delightful user experiences that leave a lasting impression.</h3>
+<br/>
 
 ###
 
@@ -10,13 +12,16 @@
 
 ###
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **susanta721467@gmail.com**
 
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Tyi4FeK-GXC2GFhd01k0_bA0VjhxpAgi/view?usp=sharing">Resume</a>
 
 - 🧑‍💻 My Portfolio Link: <a href="https://susantaportfolio.vercel.app/">Portfolio</a>
+
+###
+<br/>
 
 <h3 align="center">👨‍💻 Projects 👨‍💻</h3>
 
@@ -25,7 +30,7 @@
 <h4 align="left">🚀 Boat Lifestyle: Designed and developed a dynamic website to showcase the latest lifestyle products, emphasizing sleek design and seamless user navigation.<br><br>🌟 Sephora: Contributed to building an engaging e-commerce platform for a leading beauty brand, integrating intuitive shopping features and captivating visuals.<br><br>📚 Pluralsight: Collaborated on creating an immersive online learning platform, empowering users to expand their knowledge in various fields through interactive courses and tutorials.</h4>
 
 ###
-
+<br/>
 <h3 align="center">🎯 Tech Skills 🎯</h3>
 
 ###
@@ -91,12 +96,19 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/susanta-samanta28/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/dev_susanta03" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  <a href="https://www.facebook.com/susanta.samanta.568294?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/invites/contact/?i=mvuuxlfg6esr&utm_content=2fzo7zg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
