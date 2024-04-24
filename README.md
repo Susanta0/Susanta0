@@ -128,7 +128,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Susanta0/Susanta0/output/snake.svg" alt="Snake animation" />
-![snake animation](https://github.com/Susanta0/Susanta0/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://github.com/Susanta0/Susanta0/blob/output/github-contribution-grid-snake2.svg"/>
+
 
 ###
 
