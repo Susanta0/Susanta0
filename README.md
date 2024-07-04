@@ -12,7 +12,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **susanta721467@gmail.com**
 
