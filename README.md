@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋! My name is Susanta Samanta and I'm a Frontend Developer, from India</h1>
+<h1 align="center">Hi 👋! My name is Susanta Samanta and I'm a Mern Stack Developer, from India</h1>
 <br/>
 
 ###
 
-<h3 align="center">👨‍💻 passionate web developer based in the vibrant city of Kolkata, West Bengal. With a keen eye for design and a knack for problem-solving, I love crafting delightful user experiences that leave a lasting impression.</h3>
+<h3 align="center">👨‍💻 Newcomer to web development, MERN stack developer proficient in data retrieval and processing, creating dynamic.</h3>
 <br/>
 
 ###
 
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
 ###
 
@@ -19,15 +19,11 @@
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1J_stHNWDc43rzj8nfWwhpfr5QG-FmteI/view?usp=sharing" target="_blank">Resume</a>
 
 - 🧑‍💻 My Portfolio Link: <a href="https://susantaportfolio.vercel.app/">Portfolio</a>
+- 🧑‍💻 Ask me about: MERN Stack
+
 
 ###
 <br/>
-
-<h3 align="center">👨‍💻 Projects 👨‍💻</h3>
-
-###
-
-<h4 align="left">🚀 Boat Lifestyle: Designed and developed a dynamic website to showcase the latest lifestyle products, emphasizing sleek design and seamless user navigation.<br><br>🌟 Sephora: Contributed to building an engaging e-commerce platform for a leading beauty brand, integrating intuitive shopping features and captivating visuals.<br><br>📚 Pluralsight: Collaborated on creating an immersive online learning platform, empowering users to expand their knowledge in various fields through interactive courses and tutorials.</h4>
 
 ###
 <br/>
@@ -91,7 +87,7 @@
 
 ###
 
-<h3 align="center">🤝 Social media 🤝</h3>
+<h3 align="center">🤝 Connect with me 🤝</h3>
 
 ###
 
@@ -105,9 +101,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   <a href="https://www.facebook.com/susanta.samanta.568294?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/invites/contact/?i=mvuuxlfg6esr&utm_content=2fzo7zg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   </a>
 </div>
 
