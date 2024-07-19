@@ -1,11 +1,11 @@
 <img height="350" width="100%" src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzMDgzNTYsIm5iZiI6MTcyMTMwODA1NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE4VDEzMDczNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyNTA4ZGQxYzVmZDA5NTc3ZGZhNDc4YzcxYWJlZTQwZjA0NzgyMzE3YTc2YTRiZTA0MmM0YWU0MWFiNWU4YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.peuOeyo-SmNi1eeIW7rMEz5ph2GmCO5uSooBP98h0Ok"/>
 
-<h1 align="center">Hi 👋! My name is Susanta Samanta and I'm a Mern Stack Developer, from India</h1>
+<h1>Hi 👋! My name is Susanta Samanta and I'm a Full Stack Developer, from India</h1>
 <br/>
 
 ###
 
-<h3 align="center">👨‍💻 Newcomer to web development, MERN stack developer proficient in data retrieval and processing, creating dynamic.</h3>
+<h3>👨‍💻 As a passionate Full Stack Web Developer and newcomer to the field, I have expertise in both frontend and backend technologies. I am highly enthusiastic about creating dynamic web applications and confident in my ability to learn new things with a curious mind.</h3>
 <br/>
 
 ###
@@ -21,7 +21,7 @@
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1J_stHNWDc43rzj8nfWwhpfr5QG-FmteI/view?usp=sharing" target="_blank">Resume</a>
 
 - 🧑‍💻 My Portfolio Link: <a href="https://susantaportfolio.vercel.app/">Portfolio</a>
-- 🧑‍💻 Ask me about: MERN Stack
+- 🧑‍💻 Ask me about: **Full Stack**
 
 
 ###
@@ -122,10 +122,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Susanta0/Susanta0/output/snake.svg" alt="Snake animation" />
-
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Susanta0&bg_color=d1fff7&color=191b18&line=562fb1&point=a95151&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta0&label=Profile%20views&color=0e75b6&style=flat" alt="susanta0" /> </p>
 
-###
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
