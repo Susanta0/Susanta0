@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **susanta721467@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Mqnh7PWS-nSP1DAGkNe4OZZzpd3SatMu/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1WlpAryX8Vqpin2dYB0fgKPHd01mRP5nw/view?usp=sharing" target="_blank">Resume</a>
 
 - 🧑‍💻 My Portfolio Link: <a href="https://susantaportfolio.vercel.app/">Portfolio</a>
 - 🧑‍💻 Ask me about: **Full Stack**
@@ -60,9 +60,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo"  />
 </div>
-
-###
-
+<br/>
+<br/>
 <h3 align="center">💻 Tech Tools 💻</h3>
 
 ###
@@ -86,23 +85,22 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
-
-###
-
-<h3 align="center">🤝 Connect with me 🤝</h3>
+<br/>
+<br/>
+<h2 align="center">🤝 Connect with me 🤝</h2>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/susanta-samanta28/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/dev_susanta03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   <a href="https://www.facebook.com/susanta.samanta.568294?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
   </a>
 </div>
 
