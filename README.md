@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **susanta721467@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1J_stHNWDc43rzj8nfWwhpfr5QG-FmteI/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Mqnh7PWS-nSP1DAGkNe4OZZzpd3SatMu/view?usp=sharing" target="_blank">Resume</a>
 
 - 🧑‍💻 My Portfolio Link: <a href="https://susantaportfolio.vercel.app/">Portfolio</a>
 - 🧑‍💻 Ask me about: **Full Stack**
