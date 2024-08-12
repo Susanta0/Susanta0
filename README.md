@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo"  />
 </div>
 <br/>
-<br/>
 <h3 align="center">💻 Tech Tools 💻</h3>
 
 ###
@@ -86,7 +85,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 <br/>
-<br/>
 <h2 align="center">🤝 Connect with me 🤝</h2>
 
 ###
@@ -103,7 +101,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
   </a>
 </div>
-<br/>
 <br/>
 <h3 align="center">GitHub Stats</h3>
 
