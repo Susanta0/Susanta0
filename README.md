@@ -8,33 +8,28 @@
 <a href="https://linkedin.com/in/susanta-samanta28" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/susanta9034" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-
-###
-
-<h3>👨‍💻 As a passionate Full Stack Web Developer and newcomer to the field, I have expertise in both frontend and backend technologies. I am highly enthusiastic about creating dynamic web applications and confident in my ability to learn new things with a curious mind.</h3>
-<br/>
-
-###
-
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-
-###
-
-- 🌱 I’m currently learning **DSA**
-
-- 📫 How to reach me **susanta721467@gmail.com**
-
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1WlpAryX8Vqpin2dYB0fgKPHd01mRP5nw/view?usp=sharing" target="_blank">Resume</a>
-
-- 🧑‍💻 My Portfolio Link: <a href="https://susantaportfolio.vercel.app/">Portfolio</a>
-- 🧑‍💻 Ask me about: **Full Stack**
+## Creation 👨‍💻
 
 
-###
-<br/>
+### <img src="https://susantaportfolio.vercel.app./assets/pic1.jpg" width="16px"/>  Portfolio 
+[Susanta Samanta - Portfolio](https://susantaportfolio.vercel.app/) ,
+</> and Crafted with 💛 by Susanta Samanta
 
-###
-<br/>
+### <img src="https://fiverr-one-zeta.vercel.app/assets/favicon-DdOwYT9c.png" width="16px" />  Fiverr : Fiverr freelancing website
+[Fiverr freelancing website](https://fiverr-one-zeta.vercel.app/) The Fiverr Website is a full-stack project created in just 5 days. Utilizing JavaScript, React, Node.js, and MongoDB, it features authentication, dynamic content creation, and responsive design. Users can register, log in, create gigs, and enjoy a seamless freelancing experience.
+
+### <img src="https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/misc/general/free/original/RxLwom7K8-sephora_og_image-34f1169559fdb47662226655a01e2f90dabe8622664f82b7f9b4ed5907237b3d.jpg" width="16px" />  Sephora: Sephora E-commerce Website
+[Sephora E-commerce Website](https://sephorasite.vercel.app/) The Sephora website clone is like a fancy online store made with modern tools like HTML, CSS (with Tailwind CSS), JavaScript, ReactJS (with JSX), and Chakra UI. It's designed to mimic the important features and look of the well-known beauty and cosmetics shop, Sephora. This project aims to give users a similar experience of shopping for beauty products online, with easy navigation, pretty visuals, and secure technology.
+
+### <img src="https://boatlife-style.netlify.app/pic/images.jpeg" width="16px" />  Boat: Boat Lifestyle
+[Boat Lifestyle](https://boatlife-style.netlify.app/) The boat-lifestyle website clone is like a fancy online store made with modern tools like HTML, CSS, JavaScript. It's designed to mimic the important features and look of the well-known earbuds and smart watch and also sound system. This project aims to give users a similar experience of shopping for beauty products online, with easy navigation, pretty visuals, and secure technology.
+
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79_62_E5KcdEgkgq7Z2yKioKcLwP3nZqfSg&s" width="16px" />  SSH: Skill Showcase Hub
+[Skill Showcase Hub](https://skill-showcase-hub.vercel.app/) Skill Showcase Hub is a dynamic web platform built to provide a space for talented coders to showcase their skills through engaging contests. Participants can join contests, display their projects, and have the chance to win exciting prizes. The platform also features a product section where users can explore and add products to their cart, making the experience more interactive.
+
+### <img src="https://dream-music-lake.vercel.app/assets/Logo-Ba9HUsaw.svg" width="16px" />  DMP: Dream Music Player
+[Dream Music Player](https://dream-music-lake.vercel.app/) This project involves creating a music player in React using Howler.js, with features such as play/pause, next/previous functionality, and loop mode.
+
 <h3 align="center">🎯 Tech Skills 🎯</h3>
 
 ###
