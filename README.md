@@ -49,6 +49,7 @@
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Chakra Ui](https://img.shields.io/badge/-ChakraUi-000?style=for-the-badge&logo=ChakraUi)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 
 #### Design/Visual Tools
