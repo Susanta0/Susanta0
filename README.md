@@ -68,6 +68,8 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
+#### Backend Hosting
+![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
 <!--
 #### CI/CD
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
