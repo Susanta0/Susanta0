@@ -56,7 +56,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
 #### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
