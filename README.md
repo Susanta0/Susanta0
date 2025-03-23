@@ -27,9 +27,6 @@
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79_62_E5KcdEgkgq7Z2yKioKcLwP3nZqfSg&s" width="16px" />  SSH: Skill Showcase Hub
 [Skill Showcase Hub](https://skill-showcase-hub.vercel.app/) Skill Showcase Hub is a dynamic web platform built to provide a space for talented coders to showcase their skills through engaging contests. Participants can join contests, display their projects, and have the chance to win exciting prizes. The platform also features a product section where users can explore and add products to their cart, making the experience more interactive.
 
-### <img src="https://dream-music-lake.vercel.app/assets/Logo-Ba9HUsaw.svg" width="16px" />  DMP: Dream Music Player
-[Dream Music Player](https://dream-music-lake.vercel.app/) This project involves creating a music player in React using Howler.js, with features such as play/pause, next/previous functionality, and loop mode.
-
 <p align="right">
 .. working on few more projects 😉 </p>
 
